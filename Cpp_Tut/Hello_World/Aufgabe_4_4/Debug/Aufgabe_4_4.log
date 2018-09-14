@@ -1,0 +1,6 @@
+﻿  Aufgabe_4_4.cpp
+c:\users\mattias.koelbl\workspace\cpp_tut\hello_world\aufgabe_4_4\aufgabe_4_4.cpp(9): warning C4101: "result_4": Unreferenzierte lokale Variable
+c:\users\mattias.koelbl\workspace\cpp_tut\hello_world\aufgabe_4_4\aufgabe_4_4.cpp(9): warning C4101: "result_2": Unreferenzierte lokale Variable
+c:\users\mattias.koelbl\workspace\cpp_tut\hello_world\aufgabe_4_4\aufgabe_4_4.cpp(9): warning C4101: "result_3": Unreferenzierte lokale Variable
+c:\users\mattias.koelbl\workspace\cpp_tut\hello_world\aufgabe_4_4\aufgabe_4_4.cpp(9): warning C4101: "result_1": Unreferenzierte lokale Variable
+  Aufgabe_4_4.vcxproj -> C:\Users\mattias.koelbl\Workspace\Cpp_Tut\Hello_World\Debug\Aufgabe_4_4.exe
